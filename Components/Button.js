@@ -2,7 +2,7 @@ import React from "react";
 import { TouchableOpacity,Text,StyleSheet } from "react-native";
 
 
-const Button = (props) =>{
+const Button = (props) => {
     let bg = (props.black)?'black':'red'
     return(
         <TouchableOpacity 
