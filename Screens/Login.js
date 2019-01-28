@@ -3,7 +3,7 @@ import {
     StyleSheet,
     View,
 } from 'react-native';
-import { Input,Button,Logo,Reminder } from "../Components";
+import { Input,Button,Logo,Reminder, } from "../Components";
 
 class Login extends React.Component{
 
